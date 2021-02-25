@@ -1,5 +1,5 @@
 # Manjaro ARM Khadas Vim 3
-[![iso_build](https://github.com/manjaro-arm/vim3-images/workflows/image_build/badge.svg)](https://github.com/manjaro-arm/vim3-images/actions)
+[![iso_build](https://github.com/manjaro-arm/vim3-images/workflows/image_build_all/badge.svg)](https://github.com/manjaro-arm/vim3-images/actions)
 
 ## description
 
